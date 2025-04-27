@@ -1,4 +1,4 @@
-console.log('este es mi ejecio #3')
+console.log('este es mi ejercicio #3')
 alert('ingrese un valor ya sea negativo o positivo');
 let num1 = parseFloat(prompt('ingrese el primer valor'));
 let num2 = parseFloat(prompt('ingrese el segundo valor'));
